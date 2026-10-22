@@ -1,0 +1,12 @@
+
+### Création un fichier `gitignore.txt'
+
+Pour éviter d'envoyer les fichiers de données lourds (`.dat`) ou les exécutables générés sur GitHub, crée un fichier `.gitignore` :
+
+```bash
+cat << EOF > gitignore.txt
+*.dat
+*.out
+*.exe
+newton_fractal
+EOF
