@@ -1,6 +1,6 @@
 # Newton Fractal in Fortran 90
 
-Ce projet implémente le calcul numérique des **bassins d'attraction de la méthode de Newton** pour la résolution de l'équation complexe $z^3 - 1 = 0$ en Fortran 90.
+Ce projet implémente le calcul numérique des **bassins d'attraction de la méthode de Newton** pour la résolution de l'équation complexe $z^3 - 1 = 0$  en Fortran 90.
 
 ## Description mathématique
 La méthode de Newton généralisée aux nombres complexes est définie par la relation récurrente :
